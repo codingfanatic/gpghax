@@ -4,7 +4,7 @@
 
 This uses lolhack, a payload launcher created by madmonkey.
 
-What if PlayStation Classic, but with a game library that's actually fun to play?
+What if you had a PlayStation Classic, but with a game library that's actually fun to play?
 
 # 1. Adding Custom Games:
 
